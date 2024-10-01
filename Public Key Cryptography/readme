@@ -1,0 +1,6 @@
+Project Guide:
+1. This project is implemented in python
+2. please install these modules: binascii, sympy , pycryptodome , hashlib
+3. run part1.py for part 1
+4. run part-2-DH.py for part 2
+5. run part-3-RSA.py for part 3
